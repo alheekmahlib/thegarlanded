@@ -1,0 +1,14 @@
+[
+    {
+        "id": "01",
+        "title": "هديه ﷺ في الوضوء",
+        "bookD": "assets/images/book.jpg",
+        "type": "figh"
+    },
+    {
+        "id": "02",
+        "title": "هديه ﷺ في الصلاة",
+        "bookD": "assets/images/book.jpg",
+        "type": "figh"
+    }
+]
