@@ -5,7 +5,7 @@
     "body": "test test",
     "isLottie": true,
     "lottie": "https://assets10.lottiefiles.com/packages/lf20_szrbrL.json",
-    "isImage": false,
-    "image": ""
+    "isImage": true,
+    "image": "https://imgur.com/a/9gx7Len"
   }
 ]
