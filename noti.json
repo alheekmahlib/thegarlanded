@@ -1,0 +1,11 @@
+[
+  {
+    "id": 1,
+    "title": "test1",
+    "body": "test test",
+    "isLottie": true,
+    "lottie": "https://assets10.lottiefiles.com/packages/lf20_szrbrL.json",
+    "isImage": false,
+    "image": ""
+  }
+]
