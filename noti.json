@@ -1,6 +1,6 @@
 [
   {
-    "id": 10,
+    "id": 1,
     "title": "عيدكم مبارك",
     "body": "بارك الله لكم في العيد وجعلكم من المستحقين رضاه يوم نقوم ونلقاه.",
     "isLottie": false,
@@ -8,13 +8,4 @@
     "isImage": true,
     "image": "https://github.com/alheekmahlib/thegarlanded/blob/master/Photos/EidMubarak.jpg?raw=true"
   }
-  //{
-    //"id": 2,
-    //"title": "test2",
-    //"body": "test test",
-    //"isLottie": true,
-    //"lottie": "https://assets10.lottiefiles.com/packages/lf20_szrbrL.json",
-    //"isImage": true,
-    //"image": "https://gcdnb.pbrd.co/images/9ztvA9Gwo9bU.jpg?o=1"
-  //}
 ]
