@@ -5,8 +5,8 @@
 "body": "test test",
 "isLottie": true,
 "lottie": "https://lottie.host/f914e435-1540-4eb2-a536-cf7b070ca49c/9JJMKqCscK.json",
-"isImage": false,
-"image": "https://gcdnb.pbrd.co/images/9ztvA9Gwo9bU.jpg?o=1"
+"isImage": true,
+"image": "https://github.com/alheekmahlib/alquranalkareem/blob/main/assets/images/AlQuranAlKareem.jpg?raw=true"
 },
   {
 "id": 2,
@@ -25,5 +25,14 @@
 "lottie": "https://lottie.host/f914e435-1540-4eb2-a536-cf7b070ca49c/9JJMKqCscK.json",
 "isImage": false,
 "image": "https://gcdnb.pbrd.co/images/9ztvA9Gwo9bU.jpg?o=1"
-}
+},
+  {
+"id": 4,
+"title": "test1",
+"body": "test test",
+"isLottie": true,
+"lottie": "https://lottie.host/f914e435-1540-4eb2-a536-cf7b070ca49c/9JJMKqCscK.json",
+"isImage": true,
+"image": "https://github.com/alheekmahlib/alquranalkareem/blob/main/assets/images/AlQuranAlKareem.jpg?raw=true"
+},
 ]
