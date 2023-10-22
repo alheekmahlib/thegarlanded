@@ -2,7 +2,7 @@
     "type": [
         {
             "number": "1",
-            "name": "fiqh",
+            "name": "الفقه",
             "books": [
                 {
                     "id": "01",
@@ -24,7 +24,7 @@
         },
         {
             "number": "2",
-            "name": "aqydah",
+            "name": "العقيدة",
             "books": [
                 {
                     "id": "03",
