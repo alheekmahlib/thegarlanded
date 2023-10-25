@@ -6,7 +6,7 @@
             "books": [
                 {
                     "id": "01",
-                    "title": "0001",
+                    "title": "هديه ﷺ في الوضوء",
                     "bookD": "assets/svg/book.svg",
                     "type": "fiqh",
                     "bookQuoted": "مقتبس من كتاب زاد المعاد",
@@ -14,7 +14,7 @@
                 },
                 {
                     "id": "02",
-                    "title": "0002",
+                    "title": "هديه ﷺ في الصلاة",
                     "bookD": "assets/svg/book.svg",
                     "type": "fiqh",
                     "bookQuoted": "مقتبس من كتاب زاد المعاد",
@@ -28,7 +28,7 @@
             "books": [
                 {
                     "id": "03",
-                    "title": "0003",
+                    "title": "التدمرية",
                     "bookD": "assets/svg/book.svg",
                     "type": "eaqyd",
                     "bookQuoted": "مقتبس من كتاب التدمرية",
@@ -36,7 +36,7 @@
                 },
                 {
                     "id": "04",
-                    "title": "0004",
+                    "title": "العقيدة الواسطية",
                     "bookD": "assets/svg/book.svg",
                     "type": "eaqyd",
                     "bookQuoted": "العقيدة الواسطية: اعتقاد الفرقة الناجية المنصورة إلى قيام الساعة أهل السنة والجماعة",
