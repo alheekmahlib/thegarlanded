@@ -37,11 +37,11 @@
 },
   {
 "id": 5,
-"title": "test1",
+"title": "test5",
 "body": "test test",
-"isLottie": true,
-"lottie": "https://lottie.host/f914e435-1540-4eb2-a536-cf7b070ca49c/9JJMKqCscK.json",
-"isImage": true,
-"image": "https://github.com/alheekmahlib/alquranalkareem/blob/main/assets/images/AlQuranAlKareem.jpg?raw=true"
+"isLottie": false,
+"lottie": "",
+"isImage": false,
+"image": ""
 }
 ]
