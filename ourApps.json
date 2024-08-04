@@ -4,7 +4,7 @@
     "appTitle": "القرآن الكريم - مكتبة الحكمة",
     "body": "التطبيق الأمثل لقراءة القرآن الكريم",
     "appLogo": "https://raw.githubusercontent.com/alheekmahlib/thegarlanded/master/Photos/splash_icon.svg",
-    "appBanner": "https://raw.githubusercontent.com/alheekmahlib/thegarlanded/master/Photos/quran/Feature%20graphic.png",
+    "appBanner": "https://raw.githubusercontent.com/alheekmahlib/thegarlanded/master/Photos/quran/quran_banner.png",
     "banner1": "https://raw.githubusercontent.com/alheekmahlib/thegarlanded/master/Photos/quran/screen%201.png",
     "banner2": "https://raw.githubusercontent.com/alheekmahlib/thegarlanded/master/Photos/quran/screen%202.png",
     "banner3": "https://raw.githubusercontent.com/alheekmahlib/thegarlanded/master/Photos/quran/screen%203.png",
@@ -48,6 +48,23 @@
     "urlAppStore": "https://apps.apple.com/us/app/%D9%86%D8%AD%D9%88%D9%8A-%D8%A7%D9%84%D9%86%D8%AD%D9%88-%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A/id6476078330",
     "urlPlayStore": "https://play.google.com/store/apps/details?id=com.alheekmahlib.nahawiapp.nahawi",
     "urlAppGallery": "https://appgallery.huawei.com/#/app/C110098337",
+    "urlMacAppStore": "1"
+  },
+  {
+    "id": 3,
+    "appTitle": "سُنتي - مكتبة الحكمة",
+    "body": "تطبيق سُنتي هو تطبيق متخصص في مجال الحديث الشريف",
+    "appLogo": "https://raw.githubusercontent.com/alheekmahlib/thegarlanded/master/Photos/Sunti/sunti_logo.svg",
+    "appBanner": "https://raw.githubusercontent.com/alheekmahlib/thegarlanded/master/Photos/Sunti/sunnati_banner.png",
+    "banner1": "https://raw.githubusercontent.com/alheekmahlib/thegarlanded/master/Photos/Sunti/screen%201.png",
+    "banner2": "https://raw.githubusercontent.com/alheekmahlib/thegarlanded/master/Photos/Sunti/screen%202.png",
+    "banner3": "https://raw.githubusercontent.com/alheekmahlib/thegarlanded/master/Photos/Sunti/screen%203.png",
+    "banner4": "https://raw.githubusercontent.com/alheekmahlib/thegarlanded/master/Photos/Sunti/screen%204.png",
+    "aboutApp2": "1",
+    "aboutApp3": "1",
+    "urlAppStore": "https://apps.apple.com/us/app/%D8%B3-%D9%86%D8%AA%D9%8A-%D9%85%D9%83%D8%AA%D8%A8%D8%A9-%D8%A7%D9%84%D8%AD%D9%83%D9%85%D8%A9/id6478895797",
+    "urlPlayStore": "https://play.google.com/store/apps/details?id=com.alheekmahlib.suntiapp.sunti",
+    "urlAppGallery": "https://urldre.cloud.huawei.com/rKKdpB52Mg",
     "urlMacAppStore": "1"
   }
 ]
