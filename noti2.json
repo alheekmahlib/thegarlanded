@@ -1,62 +1,62 @@
 [
-{
-"id": 1,
-"appName": "quran",
-"title": "test1",
-"body": "test test",
-"isLottie": true,
-"lottie": "https://lottie.host/f914e435-1540-4eb2-a536-cf7b070ca49c/9JJMKqCscK.json",
-"isImage": true,
-"image": "https://github.com/alheekmahlib/alquranalkareem/blob/main/assets/images/quran_banner.png?raw=true"
-},
-  {
-"id": 2,
-"appName": "quran",
-"title": "test2",
-"body": "test test2",
-"isLottie": true,
-"lottie": "https://lottie.host/f914e435-1540-4eb2-a536-cf7b070ca49c/9JJMKqCscK.json",
-"isImage": false,
-"image": "https://gcdnb.pbrd.co/images/9ztvA9Gwo9bU.jpg?o=1"
-},
-  {
-"id": 3,
-"appName": "sunati",
-"title": "test3",
-"body": "test test3",
-"isLottie": true,
-"lottie": "https://lottie.host/f914e435-1540-4eb2-a536-cf7b070ca49c/9JJMKqCscK.json",
-"isImage": false,
-"image": "https://gcdnb.pbrd.co/images/9ztvA9Gwo9bU.jpg?o=1"
-},
-  {
-"id": 4,
-"appName": "azkary",
-"title": "test1",
-"body": "test test",
-"isLottie": true,
-"lottie": "https://lottie.host/f914e435-1540-4eb2-a536-cf7b070ca49c/9JJMKqCscK.json",
-"isImage": true,
-"image": "https://github.com/alheekmahlib/alquranalkareem/blob/main/assets/images/AlQuranAlKareem.jpg?raw=true"
-},
-  {
-"id": 5,
-"appName": "nahawi",
-"title": "test5",
-"body": "test test",
-"isLottie": false,
-"lottie": "",
-"isImage": false,
-"image": ""
-},
-  {
-"id": 6,
-"appName": "quran",
-"title": "test5",
-"body": "test test",
-"isLottie": false,
-"lottie": "",
-"isImage": false,
-"image": ""
-}
+    {
+        "id": 1,
+        "appName": "quran",
+        "title": "test1",
+        "body": "test test",
+        "isLottie": true,
+        "lottie": "https://lottie.host/f914e435-1540-4eb2-a536-cf7b070ca49c/9JJMKqCscK.json",
+        "isImage": true,
+        "image": "https://github.com/alheekmahlib/alquranalkareem/blob/main/assets/images/quran_banner.png?raw=true"
+    },
+    {
+        "id": 2,
+        "appName": "quran",
+        "title": "test2",
+        "body": "test test2",
+        "isLottie": true,
+        "lottie": "https://lottie.host/f914e435-1540-4eb2-a536-cf7b070ca49c/9JJMKqCscK.json",
+        "isImage": false,
+        "image": "https://gcdnb.pbrd.co/images/9ztvA9Gwo9bU.jpg?o=1"
+    },
+    {
+        "id": 3,
+        "appName": "sunati",
+        "title": "test3",
+        "body": "test test3",
+        "isLottie": true,
+        "lottie": "https://lottie.host/f914e435-1540-4eb2-a536-cf7b070ca49c/9JJMKqCscK.json",
+        "isImage": false,
+        "image": "https://gcdnb.pbrd.co/images/9ztvA9Gwo9bU.jpg?o=1"
+    },
+    {
+        "id": 4,
+        "appName": "azkary",
+        "title": "test1",
+        "body": "test test",
+        "isLottie": true,
+        "lottie": "https://lottie.host/f914e435-1540-4eb2-a536-cf7b070ca49c/9JJMKqCscK.json",
+        "isImage": true,
+        "image": "https://github.com/alheekmahlib/alquranalkareem/blob/main/assets/images/AlQuranAlKareem.jpg?raw=true"
+    },
+    {
+        "id": 5,
+        "appName": "nahawi",
+        "title": "test5",
+        "body": "test test",
+        "isLottie": false,
+        "lottie": "",
+        "isImage": false,
+        "image": ""
+    },
+    {
+        "id": 6,
+        "appName": "quran",
+        "title": "test5",
+        "body": "test test",
+        "isLottie": false,
+        "lottie": "",
+        "isImage": false,
+        "image": ""
+    }
 ]
