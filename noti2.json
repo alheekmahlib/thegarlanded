@@ -1,6 +1,7 @@
 [
 {
 "id": 1,
+"appName": "quran",
 "title": "test1",
 "body": "test test",
 "isLottie": true,
@@ -10,6 +11,7 @@
 },
   {
 "id": 2,
+"appName": "quran",
 "title": "test2",
 "body": "test test2",
 "isLottie": true,
@@ -19,6 +21,7 @@
 },
   {
 "id": 3,
+"appName": "sunati",
 "title": "test3",
 "body": "test test3",
 "isLottie": true,
@@ -28,6 +31,7 @@
 },
   {
 "id": 4,
+"appName": "azkary",
 "title": "test1",
 "body": "test test",
 "isLottie": true,
@@ -37,6 +41,7 @@
 },
   {
 "id": 5,
+"appName": "nahawi",
 "title": "test5",
 "body": "test test",
 "isLottie": false,
