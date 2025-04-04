@@ -38,5 +38,15 @@
         "lottie": "",
         "isImage": false,
         "image": ""
+    },
+    {
+        "id": 5,
+        "appName": "zad",
+        "title": "عيدكم مبارك",
+        "body": "تقبل الله منا ومنكم صالح الأعمال، وكل عام وأنتم بخير.",
+        "isLottie": false,
+        "lottie": "",
+        "isImage": false,
+        "image": ""
     }
 ]
