@@ -1,6 +1,7 @@
 [
   {
     "id": 1,
+    "appName": "quran",
     "appTitle": "القرآن الكريم - مكتبة الحكمة",
     "body": "التطبيق الأمثل لقراءة القرآن الكريم",
     "appLogo": "https://raw.githubusercontent.com/alheekmahlib/thegarlanded/master/Photos/splash_icon.svg",
@@ -18,6 +19,7 @@
   },
   {
     "id": 2,
+    "appName": "azkary",
     "appTitle": "أذكاري من الكتاب والسنة",
     "body": "التطبيق الأمثل لقراءة الأذكار",
     "appLogo": "https://raw.githubusercontent.com/alheekmahlib/thegarlanded/master/Photos/azkary_logo.svg",
@@ -35,6 +37,7 @@
   },
   {
     "id": 3,
+    "appName": "nahawi",
     "appTitle": "نحويّ : النحو العربي",
     "body": "تطبيق لقواعد اللغة العربية",
     "appLogo": "https://raw.githubusercontent.com/alheekmahlib/thegarlanded/master/Photos/syntactic_logo.svg",
@@ -52,6 +55,7 @@
   },
   {
     "id": 3,
+    "appName": "sunti",
     "appTitle": "سُنتي - مكتبة الحكمة",
     "body": "تطبيق سُنتي هو تطبيق متخصص في مجال الحديث الشريف",
     "appLogo": "https://raw.githubusercontent.com/alheekmahlib/thegarlanded/master/Photos/Sunti/sunti_logo.svg",
