@@ -70,5 +70,23 @@
     "urlPlayStore": "https://play.google.com/store/apps/details?id=com.alheekmahlib.suntiapp.sunti",
     "urlAppGallery": "https://urldre.cloud.huawei.com/rKKdpB52Mg",
     "urlMacAppStore": "1"
+  },
+  {
+    "id": 4,
+    "appName": "aqim",
+    "appTitle": "أقم - مكتبة الحكمة",
+    "body": "رفيقك للحفاظ على صلاتك: أوقات الصلاة، إشعارات الأذان، واتجاه القبلة.",
+    "appLogo": "https://raw.githubusercontent.com/alheekmahlib/thegarlanded/master/Photos/Sunti/sunti_logo.svg",
+    "appBanner": "https://raw.githubusercontent.com/alheekmahlib/data/main/apps_photos/aqim_app/play_store/Feature%20graphic.png",
+    "banner1": "https://raw.githubusercontent.com/alheekmahlib/data/main/apps_photos/aqim_app/play_store/p1.png",
+    "banner2": "https://raw.githubusercontent.com/alheekmahlib/data/main/apps_photos/aqim_app/play_store/p2.png",
+    "banner3": "https://raw.githubusercontent.com/alheekmahlib/data/main/apps_photos/aqim_app/play_store/p3.png",
+    "banner4": "",
+    "aboutApp2": "1",
+    "aboutApp3": "1",
+    "urlAppStore": "https://apps.apple.com/us/app/%D8%B3-%D9%86%D8%AA%D9%8A-%D9%85%D9%83%D8%AA%D8%A8%D8%A9-%D8%A7%D9%84%D8%AD%D9%83%D9%85%D8%A9/id6478895797",
+    "urlPlayStore": "https://play.google.com/store/apps/details?id=com.alheekmah.aqimApp",
+    "urlAppGallery": "https://appgallery.huawei.com/#/app/C115301239",
+    "urlMacAppStore": "1"
   }
 ]
